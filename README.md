@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Abdullah</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahmyigit&label=Profile%20views&color=a90eb4&style=flat" alt="abdullahmyigit" /> </p>
 
 <h3 align="left">Connect with me:</h3>
